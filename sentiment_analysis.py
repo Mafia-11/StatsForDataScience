@@ -17,7 +17,7 @@ print(data.head())
 # In[13]:
 
 
-pip install wordcloud
+
 
 
 # In[14]:
