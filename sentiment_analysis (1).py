@@ -15,20 +15,6 @@ data = pd.read_csv("https://raw.githubusercontent.com/amankharwal/Website-data/m
 print(data.head())
 
 
-# In[27]:
-
-
-pip install streamlit
-
-
-# In[13]:
-
-
-pip install wordcloud
-
-
-# In[14]:
-
 
 print(data.isnull().sum())
 
